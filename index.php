@@ -9,7 +9,7 @@ $dateAndTime = date ("Y.m.d H:i:s");
 $lang = "tr_TR";
 
 $path = array(
-	'basePath'			=> "kp",
+	'basePath'			=> "",
 	'systemPath'		=> "System",
 	'appPath'			=> "Public",
 	'controllerPath'	=> "Controller",
